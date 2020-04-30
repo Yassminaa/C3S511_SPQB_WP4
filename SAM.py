@@ -1,5 +1,5 @@
 '''
-Created on Fri Thu 28 2020 15:00 at ISMAR-CNR,
+Created on Fri Feb 28 2020 15:00 at ISMAR-CNR,
 @author: Federico S. and  Yassmin H.
 The code is designed to plot the zonal mean of the meridional wind 
 in the region 10° N - 30° N and 70° E - 110° E (South Asian monsoon)
